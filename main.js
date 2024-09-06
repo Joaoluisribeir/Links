@@ -6,7 +6,7 @@ document.querySelector('.wa').addEventListener('click', function(event) {
                event.preventDefault();
                window.location.href = 'https://www.facebook.com/joaoluis.ribeiro.5811';
            });
-           document.querySelector('.wa').addEventListener('click', function(event) {
+           document.querySelector('.it').addEventListener('click', function(event) {
                event.preventDefault();
                window.location.href = 'https://www.instagram.com/joaoluis755?igsh=YzljYTk1ODg3Zg==';
            });
